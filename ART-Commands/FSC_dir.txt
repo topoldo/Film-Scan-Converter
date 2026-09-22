@@ -1,0 +1,4 @@
+[ART UserCommand]
+Label=Film Scan Converter (Directory)
+Command=powershell.exe -NoProfile -NoExit -ExecutionPolicy Bypass -File .\\FSC_dir.ps1
+FileType=directory
